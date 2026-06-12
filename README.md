@@ -127,7 +127,7 @@ Directing business strategy while concurrently managing technical operations and
 `Business Strategy` `IT Administration` `Networking` `System Architecture` `Python` `Linux`
 
 ### Student (GCSE) | United Kingdom
-**Sep 2023 – Present**
+**Sep 2025 – Present**
 
 Undertaking rigorous academic study focusing on technical and strategic disciplines.
 
