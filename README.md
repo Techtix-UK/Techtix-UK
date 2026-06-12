@@ -70,45 +70,45 @@ My focus lies in building and managing robust IT infrastructure, streamlining bu
 ## ✦ Featured Projects
 
 <details>
-<summary><b>Techtix Infrastructure Management System</b></summary>
+<summary><b>OmniDeploy IT</b></summary>
 <br>
 
-A centralized IT management dashboard designed to monitor hardware health, track software licenses, and automate routine technical support tasks for Techtix.
+An automated infrastructure provisioning and deployment platform designed to streamline enterprise IT operations and endpoint management.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
+| Stack | Scale | Performance | Security | Impact | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Node.js, PostgreSQL | Internal Enterprise | < 500ms latency | Role-Based Access | Reduced IT ticket resolution time by 40% | [![Repo](https://img.shields.io/badge/GitHub-View_Code-4B0082?style=flat-square&logo=github)](https://github.com/Techtix-UK/techtix-infra) |
+| Python, Bash, Node.js | Enterprise IT | < 5m deployment | Zero-Trust | Reduced onboarding time by 60% | [![Website](https://img.shields.io/badge/Website-Visit_Live-4B0082?style=flat-square&logo=vercel)](https://OmniDeploy.uk) |
 
 **Engineering Perspective:**
-Developed custom Bash and PowerShell scripts integrated with a Node.js backend to provide real-time telemetry from managed endpoints. Automated the ticketing process, linking system alerts directly to the workflow dashboard.
+Architected utilizing robust shell scripting combined with a Node.js orchestration layer to automate the provisioning of hardware and software environments. Engineered to handle zero-touch deployments, minimizing human error and ensuring tight compliance across all managed corporate devices.
 </details>
 
 <details>
-<summary><b>GCSE Computer Science Revision Engine</b></summary>
+<summary><b>Maths Locker</b></summary>
 <br>
 
-An interactive, web-based platform tailored to the GCSE curriculum, featuring automated quizzes and spaced repetition algorithms.
+A comprehensive digital educational repository and interactive learning platform tailored for mathematics students and educators.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
+| Stack | Scale | Performance | Security | Impact | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| HTML, CSS, JavaScript, SQLite | 500+ Users | Instant local caching | Secure Auth | Improved cohort test scores by 15% | [![Repo](https://img.shields.io/badge/GitHub-View_Code-4B0082?style=flat-square&logo=github)](https://github.com/Techtix-UK/gcse-revision) |
+| React, Next.js, Tailwind | 1000+ Users | Edge Network CDN | Encrypted Auth | Increased student engagement | [![Website](https://img.shields.io/badge/Website-Visit_Live-4B0082?style=flat-square&logo=vercel)](https://mathslocker.co.uk) |
 
 **Engineering Perspective:**
-Architected a lightweight vanilla JavaScript frontend paired with a local SQLite database for rapid data retrieval. Designed the spaced repetition logic utilizing standard spaced-interval formulas to optimize memory retention for students.
+Developed a responsive frontend using React to ensure maximum accessibility across devices. Integrated a secure authentication system to protect student data while providing a seamless, low-latency resource retrieval experience optimized for revision and study sessions.
 </details>
 
 <details>
-<summary><b>Automated Financial Tracker</b></summary>
+<summary><b>CaterFlow</b></summary>
 <br>
 
-A business intelligence tool that aggregates financial data from multiple sources to provide real-time profit and loss tracking for small enterprises.
+A centralized operational workflow and resource management system engineered specifically for the catering and hospitality sector.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
+| Stack | Scale | Performance | Security | Impact | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Pandas, Flask | SMB Tier | < 1s query time | End-to-End Encrypted | Streamlined monthly accounting | [![Repo](https://img.shields.io/badge/GitHub-View_Code-4B0082?style=flat-square&logo=github)](https://github.com/Techtix-UK/finance-tracker) |
+| Python, Express, PostgreSQL | SMB Tier | Real-time sync | RBAC | Optimized supply chain logistics | ![Private](https://img.shields.io/badge/Status-Private_Project-696969?style=flat-square&logo=github) |
 
 **Engineering Perspective:**
-Utilized Python's Pandas library to process CSV exports from banking and payment gateways. Built a RESTful API with Flask to serve aggregated metrics securely to a web interface, strictly adhering to financial data protection principles.
+Designed a relational database schema in PostgreSQL to handle complex inventory matrices and supplier relationships. Built a robust backend to support real-time data synchronization across administrative dashboards, significantly reducing inventory discrepancies and manual overhead.
 </details>
 
 ---
