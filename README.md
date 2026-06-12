@@ -12,7 +12,7 @@
 ![Location](https://img.shields.io/badge/United_Kingdom-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Techtix-000000?style=for-the-badge&logo=vercel&logoColor=white&borderColor=8A2BE2)](https://techtixlabs.co.uk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/adampotgieter](https://www.linkedin.com/in/adam-potgieter-1a4b1b3b5/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-potgieter-1a4b1b3b5/)
 [![Email](https://img.shields.io/badge/Email-9400D3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam@techtixlabs.co.uk)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Techtix-UK)
 
@@ -77,7 +77,7 @@ A centralized IT management dashboard designed to monitor hardware health, track
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Node.js, PostgreSQL | Internal Enterprise | < 500ms latency | Role-Based Access | Reduced IT ticket resolution time by 40% | [![Repo](https://img.shields.io/badge/GitHub-View_Code-4B0082?style=flat-square&logo=github)](https://github.com/adampotgieter/techtix-infra) |
+| Python, Node.js, PostgreSQL | Internal Enterprise | < 500ms latency | Role-Based Access | Reduced IT ticket resolution time by 40% | [![Repo](https://img.shields.io/badge/GitHub-View_Code-4B0082?style=flat-square&logo=github)](https://github.com/Techtix-UK/techtix-infra) |
 
 **Engineering Perspective:**
 Developed custom Bash and PowerShell scripts integrated with a Node.js backend to provide real-time telemetry from managed endpoints. Automated the ticketing process, linking system alerts directly to the workflow dashboard.
@@ -91,7 +91,7 @@ An interactive, web-based platform tailored to the GCSE curriculum, featuring au
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| HTML, CSS, JavaScript, SQLite | 500+ Users | Instant local caching | Secure Auth | Improved cohort test scores by 15% | [![Repo](https://img.shields.io/badge/GitHub-View_Code-4B0082?style=flat-square&logo=github)](https://github.com/adampotgieter/gcse-revision) |
+| HTML, CSS, JavaScript, SQLite | 500+ Users | Instant local caching | Secure Auth | Improved cohort test scores by 15% | [![Repo](https://img.shields.io/badge/GitHub-View_Code-4B0082?style=flat-square&logo=github)](https://github.com/Techtix-UK/gcse-revision) |
 
 **Engineering Perspective:**
 Architected a lightweight vanilla JavaScript frontend paired with a local SQLite database for rapid data retrieval. Designed the spaced repetition logic utilizing standard spaced-interval formulas to optimize memory retention for students.
@@ -105,7 +105,7 @@ A business intelligence tool that aggregates financial data from multiple source
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Pandas, Flask | SMB Tier | < 1s query time | End-to-End Encrypted | Streamlined monthly accounting | [![Repo](https://img.shields.io/badge/GitHub-View_Code-4B0082?style=flat-square&logo=github)](https://github.com/adampotgieter/finance-tracker) |
+| Python, Pandas, Flask | SMB Tier | < 1s query time | End-to-End Encrypted | Streamlined monthly accounting | [![Repo](https://img.shields.io/badge/GitHub-View_Code-4B0082?style=flat-square&logo=github)](https://github.com/Techtix-UK/finance-tracker) |
 
 **Engineering Perspective:**
 Utilized Python's Pandas library to process CSV exports from banking and payment gateways. Built a RESTful API with Flask to serve aggregated metrics securely to a web interface, strictly adhering to financial data protection principles.
@@ -190,12 +190,12 @@ Undertaking rigorous academic study focusing on technical and strategic discipli
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adampotgieter&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=A9A9A9&icon_color=9400D3&bg_color=0D1117)](https://github.com/adampotgieter)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adampotgieter&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=A9A9A9&icon_color=9400D3&background=0D1117&ring=4B0082&fire=9400D3&currStreakNum=8A2BE2)](https://github.com/adampotgieter)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Techtix-UK&show_icons=true&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=A9A9A9&icon_color=9400D3&bg_color=0D1117)](https://github.com/Techtix-UK)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Techtix-UK&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=A9A9A9&icon_color=9400D3&background=0D1117&ring=4B0082&fire=9400D3&currStreakNum=8A2BE2)](https://github.com/Techtix-UK)
 
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adampotgieter&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=A9A9A9&icon_color=9400D3&bg_color=0D1117)](https://github.com/adampotgieter)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Techtix-UK&layout=compact&theme=transparent&hide_border=true&title_color=8A2BE2&text_color=A9A9A9&icon_color=9400D3&bg_color=0D1117)](https://github.com/Techtix-UK)
 
 </div>
 
@@ -205,7 +205,7 @@ Undertaking rigorous academic study focusing on technical and strategic discipli
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=adampotgieter&theme=radical&no-frame=true&no-bg=true&margin-w=15&title-text-color=8A2BE2)](https://github.com/adampotgieter)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Techtix-UK&theme=radical&no-frame=true&no-bg=true&margin-w=15&title-text-color=8A2BE2)](https://github.com/Techtix-UK)
 
 </div>
 
@@ -215,7 +215,7 @@ Undertaking rigorous academic study focusing on technical and strategic discipli
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adampotgieter&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=4B0082&point=9400D3)](https://github.com/adampotgieter)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Techtix-UK&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=4B0082&point=9400D3)](https://github.com/Techtix-UK)
 
 </div>
 
@@ -225,7 +225,7 @@ Undertaking rigorous academic study focusing on technical and strategic discipli
 
 <div align="center">
 
-![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/adampotgieter/adampotgieter/output/github-contribution-grid-snake-dark.svg)
+![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/Techtix-UK/Techtix-UK/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
